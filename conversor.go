@@ -1,3 +1,4 @@
+// Programa para conversão de escalas termométricas
 package main
 
 import "fmt"
